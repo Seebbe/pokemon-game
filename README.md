@@ -1,7 +1,7 @@
 # pokemon-game
 Authors:
  - Alexander Mehks
- - Sebastian Nilsson
+ - Sebastian Nilssonn
  - Tobias Lager
  - Johan Nilsson
  
