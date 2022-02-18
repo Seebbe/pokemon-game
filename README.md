@@ -4,6 +4,7 @@ Authors:
  - Sebastian Nilsson
  - Tobias Lager
  - Johan Nilsson
+ 
  A school project we did for fun during our last year.
  
  To run:
